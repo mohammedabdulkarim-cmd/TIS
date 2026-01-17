@@ -11,10 +11,38 @@ Network Security, Cybersecurity Fundamentals
 
 ### Skills:
 
-Basic Networking Concepts
+- Basic Networking Concepts
 
-PC Assembly and Hardware Basics
+- PC Assembly and Hardware Basics
 
-Introduction to Cybersecurity
+ - Introduction to Cybersecurity
 
-Problem Solving and Teamwork
+- Problem Solving and Teamwork
+
+## Courses & Certifications – In Progress
+
+### Courses (In Progress):
+
+- Programming technique
+
+- Discrete Structure
+
+- Technology & Information Systems (TIS)
+
+- Integrity & Anti-Corruption
+
+### Certifications:
+
+None yet
+
+## Projects & Activities
+
+- Projects & Activities:
+
+- PC Assembly Lab
+
+- Design Thinking (Low Fidelity Prototype)
+
+- Industry Talk and Industry Visit
+
+These activities helped me gain practical exposure, understand real-world applications of technology, and work better as a team.
