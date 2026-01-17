@@ -46,4 +46,4 @@ None yet
 - Industry Talk and Industry Visit
 
 
-# These activities helped me gain practical exposure, understand real-world applications of technology, and work better as a team.
+### These activities helped me gain practical exposure, understand real-world applications of technology, and work better as a team.
